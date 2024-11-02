@@ -1,4 +1,4 @@
-# Implementacion de una estructura tipo Pila generica #
+# Ejercicios en java sobre diversos contenidos #
 
 **CONTENIDOS**
 
